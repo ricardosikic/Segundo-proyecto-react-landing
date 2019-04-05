@@ -1,0 +1,20 @@
+#navi {
+  background: #343a40 !important;
+  padding: 12px;
+}
+
+.navbar-nav {
+  margin-right: 17% !important;
+}
+
+.navbar-brand {
+  margin-left: 14% !important;
+}
+
+a {
+  color: lightgray !important;
+}
+
+.jumbotron {
+  margin-top: 30px;
+}
